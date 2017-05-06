@@ -1,0 +1,3 @@
+O openSPI é um projeto open source que disponibiliza um IP Core de um controlador SPI compatível com o protocolo AMBA APB. O IP implementado possui diversas funcionalidades como suporte a cálculo e envio automático de CRC, suporte a interface DMA, dentre outras. O IP Core do projeto openSPI é fortemente baseado no periférico SPI presente na família de microcontroladores STM32L1. A compatibilidade funcional, no entanto, não é total, havendo, inclusive, diferenças a nível de mapa de registros. Através do repositório do projeto são disponibilizados: 
+ - O RTL, em Verilog, do IP Core;
+ - Um testbench;
